@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+# Ruan Bieldt
 
-You can use the [editor on GitHub](https://github.com/ruan-bieldt/ruan-bieldt.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![image](https://media-exp1.licdn.com/dms/image/C5603AQE9cfut8cq9Xw/profile-displayphoto-shrink_200_200/0/1617882468520?e=1624492800&v=beta&t=k51kjWqwab9nIQnd3AxnhpOTVN6gsYmDcTm2s-v7tBs)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+```javascript
+//Who Am I?
+var about = "I am a 3rd year Computer Science student with a passion for learning and improving myself. " 
+            +"I never back down from a challenge and don't give up easily.";
+            
+//More about me.
+var languages = ["Java","javascript","python"];
 
-### Markdown
+var humanLanguages = ["English","Afrikaans"];
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+var interests = ["IOT","Artificial Intelligence","robotics","Software Engineering"];
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+var hobbies = ["electronics hacking","swimming","];
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ruan-bieldt/ruan-bieldt.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
