@@ -14,7 +14,7 @@ var humanLanguages = ["English","Afrikaans"];
 
 var interests = ["IOT","Artificial Intelligence","robotics","Software Engineering"];
 
-var hobbies = ["electronics hacking","swimming","];
+var hobbies = ["electronics hacking","swimming"];
 ```
 
 
