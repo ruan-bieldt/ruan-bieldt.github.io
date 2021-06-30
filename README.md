@@ -8,7 +8,7 @@ var about = "I am a 3rd year Computer Science student with a passion for learnin
             +"I never back down from a challenge and don't give up easily.";
             
 //More about me.
-var languages = ["Java","javascript","python"];
+var languages = ["Java","C++","Javascript","Python"];
 
 var humanLanguages = ["English","Afrikaans"];
 
